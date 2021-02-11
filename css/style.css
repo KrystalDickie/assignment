@@ -3,6 +3,7 @@ body {
     color: rgb(128, 56, 128);
     font-size: 18px;
 }
+
 img {
     height:40%;
     width:40%;
@@ -36,6 +37,7 @@ nav a:link, :visited {
     border-style: solid;
     padding: 5px;
 }
+
 nav a:hover {
    background-color:lightskyblue;
 }
